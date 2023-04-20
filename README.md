@@ -1,3 +1,3 @@
 # CodeChefWeeklyContest
 Username:1★codex_niraj
-Profile Link
+Profile Link https://www.codechef.com/users/codex_niraj
